@@ -24,5 +24,5 @@ Welcome to my GitHub! I'm a passionate developer focused on building meaningful,
 - 🔥 Current Streak: **30+ days**
 - 💪 Target: Master medium-level DSA + build strong problem-solving skills
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Laxita__Thakur__02-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Laxita_Thakur_02/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-laxitathakur-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Laxita_Thakur_02/)
 
