@@ -6,33 +6,33 @@ Welcome to my GitHub! I'm a passionate developer focused on building meaningful,
 
 ## 🙋‍♀️ About Me
 
-- 🎓 IT undergraduate in my final year at **SGSITS, Indore**
-- 💻 Passionate about **full-stack web development**
-- 🎨 Love designing clean, responsive, and user-friendly **UIs**
-- 🧠 Enjoy solving problems using **Data Structures & Algorithms**
-- 🚀 Believe in building real-world projects to learn and grow
-- 🌸 Strive to combine **tech and creativity** to craft impactful digital experiences
+- IT undergraduate in my final year at **SGSITS, Indore**
+- Passionate about **full-stack web development**
+- Love designing clean, responsive, and user-friendly **UIs**
+- Enjoy solving problems using **Data Structures & Algorithms**
+- Believe in building real-world projects to learn and grow
+- Strive to combine **tech and creativity** to craft impactful digital experiences
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Laxita2004&show_icons=true&theme=rose_pine&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laxita2004&layout=compact&theme=rose_pine&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Laxita2004&show_icons=true&theme=ayu-mirage&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laxita2004&layout=compact&theme=ayu-mirage&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## 🧠 LeetCode Stats
+## 🧠 LeetCode Highlights
 
-- 📄 [My LeetCode Profile](https://leetcode.com/laxitathakur/)
-- ✅ Questions Solved: **400+**
-- 🔥 Streak: **30+ days**
-- 🎯 Goal: Master medium-level DSA + build strong problem-solving skills
+- [LeetCode Profile](https://leetcode.com/laxitathakur/)
+- Solved: **400+ questions**
+- Streak: **30+ days**
+- Goal: Build a strong foundation in DSA and system design
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/laxitathakur?theme=light&font=Baloo" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/laxitathakur?theme=light&font=Fira+Code&ext=activity" alt="LeetCode Stats" />
 </p>
 
 ---
