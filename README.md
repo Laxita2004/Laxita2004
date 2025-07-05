@@ -32,7 +32,7 @@ Welcome to my GitHub! I'm a passionate developer focused on building meaningful,
 - Goal: Build a strong foundation in DSA and system design
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/laxitathakur?theme=light&font=Fira+Code&ext=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/laxitathakur?theme=nord&font=JetBrains+Mono&ext=activity" alt="LeetCode Stats" />
 </p>
 
 ---
