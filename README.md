@@ -54,3 +54,4 @@ Welcome to my GitHub! I'm a passionate developer focused on building meaningful,
 
 ## 🐍 Contribution Snake Animation
 
+![Contribution Snake](https://raw.githubusercontent.com/Laxita2004/Laxita2004/output/github-contribution-grid-snake.svg)
