@@ -16,3 +16,7 @@ Welcome to my GitHub! I'm a passionate developer focused on building meaningful,
 ![Laxita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Laxita2004&show_icons=true&theme=rose_pine)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laxita2004&layout=compact&theme=rose_pine)
+
+## 🐍 Contribution Snake
+
+![GitHub Snake Light](https://github.com/Laxita2004/Laxita2004/blob/output/github-contribution-grid-snake.svg)
