@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a passionate developer focused on building meaningful,
 
 ## 🧠 LeetCode Stats
 
-- 📄 [My LeetCode Profile](https://leetcode.com/Laxita_Thakur_02/)
+- 📄 [My LeetCode Profile](https://leetcode.com/laxitathakur/)
 - 🧩 Questions Solved: **400+**
 - 🔥 Current Streak: **30+ days**
 - 💪 Target: Master medium-level DSA + build strong problem-solving skills
