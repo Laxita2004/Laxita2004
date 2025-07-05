@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there, I'm Laxita Thakur 👋
 
-<!--
-**Laxita2004/Laxita2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate developer focused on building meaningful, user-centered web experiences and turning ideas into reality through code.
 
-Here are some ideas to get you started:
+## 🙋‍♀️ About Me:
+- IT undergraduate in my final year at **SGSITS, Indore**
+- Passionate about **full-stack web development**
+- Love designing clean, responsive, and user-friendly **UIs**
+- Enjoy solving problems using **Data Structures & Algorithms**
+- Believe in building real-world projects to learn and grow
+- Strive to combine **tech and creativity** to craft meaningful digital experiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
