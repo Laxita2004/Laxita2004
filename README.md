@@ -17,6 +17,11 @@ Welcome to my GitHub! I'm a passionate developer focused on building meaningful,
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laxita2004&layout=compact&theme=rose_pine)
 
-## 🐍 Contribution Snake
+## 🧠 LeetCode Stats
 
-![GitHub Snake Light](https://github.com/Laxita2004/Laxita2004/blob/output/github-contribution-grid-snake.svg)
+- 📄 [My LeetCode Profile](https://leetcode.com/Laxita_Thakur_02/)
+- 🧩 Questions Solved: **400+**
+- 🔥 Current Streak: **30+ days**
+- 💪 Target: Master medium-level DSA + build strong problem-solving skills
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Laxita_Thakur_02theme=dark&font=Baloo)
