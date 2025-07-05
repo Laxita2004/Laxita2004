@@ -13,6 +13,6 @@ Welcome to my GitHub! I'm a passionate developer focused on building meaningful,
    
 ## 📊 GitHub Stats
 
-![Laxita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Laxita2004&show_icons=true&theme=tokyonight)
+![Laxita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Laxita2004&show_icons=true&theme=rose_pine)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laxita2004&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laxita2004&layout=compact&theme=rose_pine)
