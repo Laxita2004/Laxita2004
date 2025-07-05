@@ -11,3 +11,8 @@ Welcome to my GitHub! I'm a passionate developer focused on building meaningful,
 - Strive to combine **tech and creativity** to craft meaningful digital experiences
 
   
+## 📊 GitHub Stats
+
+![Laxita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laxitathakur&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxitathakur&layout=compact&theme=tokyonight)
