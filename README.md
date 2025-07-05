@@ -25,3 +25,9 @@ Welcome to my GitHub! I'm a passionate developer focused on building meaningful,
 - 💪 Target: Master medium-level DSA + build strong problem-solving skills
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/laxitathakur?theme=dark&font=Baloo)
+
+## 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Laxita%20Thakur-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/laxita-thakur-280703/](https://www.linkedin.com/in/laxita-thakur-4a684a24a/))
+[![Gmail](https://img.shields.io/badge/Gmail-laxitathakur2004@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:laxitathakur2004@gmail.com)
+
