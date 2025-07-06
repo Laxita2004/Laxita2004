@@ -56,7 +56,7 @@ Welcome to my GitHub! I'm a passionate developer focused on building meaningful,
 - Goal: Build a strong foundation in DSA
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/laxitathakur?theme=ayu_mirage&font=Baloo&ext=activity" width="70%" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/laxitathakur?theme=nord&font=Baloo&ext=activity" width="70%" alt="LeetCode Stats" />
 </p>
 
 ---
