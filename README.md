@@ -51,8 +51,7 @@ Welcome to my GitHub! I'm a passionate developer focused on building meaningful,
 ## 🧠 LeetCode Highlights
 
 - [LeetCode Profile](https://leetcode.com/laxitathakur/)
-- Solved: **400+ questions**
-- Streak: **30+ days**
+- Solved: **460+ questions**
 - Goal: Build a strong foundation in DSA
 
 <p align="center">
